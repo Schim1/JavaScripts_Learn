@@ -19,4 +19,4 @@ alert(x); // 5
 //Исправьте сложение
 let first = prompt("Первое число?", 1);
 let second = prompt("Второе число?", 2);
-alert(+first + +second); // 3
+alert(+first + +second); //  3
